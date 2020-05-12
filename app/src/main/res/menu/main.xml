@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/name"
+        android:title="NAME"
+        app:showAsAction="never"
+        >
+        <menu>
+
+
+            <item
+                android:id="@+id/toolbar_ad"
+                android:title="Show Fullscreen Ad"
+                android:orderInCategory="50"
+                app:showAsAction="never"
+                />
+            <item
+                android:id="@+id/logout"
+                android:orderInCategory="100"
+                android:title="Logout"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+
+
+
+</menu>

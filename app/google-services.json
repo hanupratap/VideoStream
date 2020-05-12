@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422326647677",
+    "firebase_url": "https://directflick-9b041.firebaseio.com",
+    "project_id": "directflick-9b041",
+    "storage_bucket": "directflick-9b041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422326647677:android:8c68bef46a9dba9ddf2a14",
+        "android_client_info": {
+          "package_name": "com.example.videostream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422326647677-pi5g592pn4mn7q0hravrehnqo7q9p3j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videostream",
+            "certificate_hash": "c0fc8d558db43b2c130a9441dc819e9d227e9b37"
+          }
+        },
+        {
+          "client_id": "422326647677-089uk98odng1dbfuvjbfhdhk34mr90ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHLVN4l54GEO3DM4OGgiFdlS-y-CmIoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422326647677-089uk98odng1dbfuvjbfhdhk34mr90ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
